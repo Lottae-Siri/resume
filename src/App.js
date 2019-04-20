@@ -2,13 +2,14 @@ import React, { Component } from 'react';
 import './App.css';
 import './my.css';
 import image from './Kid.jpg'
+import Profile from './me.jpg'
 
 class App extends Component {
   render() {
     return (
       <div className="App background">
             <div className="app-left">
-                <img className="image" alt="profile" src={image}></img>
+                <img className="image" alt="profile" src={Profile}></img>
                 <h3>Korpong Siribantuengsilp</h3>
                 <h4>DevOps Engineer</h4>
             </div>
