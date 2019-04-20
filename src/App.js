@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import './my.css';
-import image from './Kid.jpg'
+// import image from './Kid.jpg'
 import Profile from './me.jpg'
 
 class App extends Component {
