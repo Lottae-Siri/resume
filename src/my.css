@@ -7,7 +7,7 @@
 
 .app-left {
     width: 30%;
-    
+    margin-left: 40px;
 }
 
 .app-right {
@@ -30,4 +30,8 @@
 
 .Experience, .Education, .Hobby {
     font-size: 20px;
+}
+
+.Skill {
+    text-align: left;
 }
